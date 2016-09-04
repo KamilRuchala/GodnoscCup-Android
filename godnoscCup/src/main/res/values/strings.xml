@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">GodnoscCup</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="choose_list_element">Wybierz element menu</string>
+    <string name="action_settings">Ustawienia</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="menu_element1">jeden</string>
+    <string name="menu_element2">dwa</string>
+    <string name="title_activity_main_menu">MainMenuActivity</string>
+    <string name="Title">Puchar godnosci i rozumu</string>
+    <string name="copyright">ⓒ Rudenko</string>
+    <string name="title_activity_config">Config</string>
+    <string name="hello_world">Hello world!</string>
+
+</resources>
